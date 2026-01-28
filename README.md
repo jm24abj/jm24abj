@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=JackMilner1\&layout=compact&theme=transparent" alt="stat" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=JackMilner1\&layout=compact&theme=transparent" alt="stat" />-->
 
 
 ###
