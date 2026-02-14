@@ -10,7 +10,7 @@
 * Game development
 ## Skills
 * Programming languages: **Python**; Java; C#; Luau
-* Programming frameworks: Pygame; Selenium
+* Programming frameworks: Pygame; JavaFX
 * Technologies: VScode; Git; Godot; Roblox Studio
 ## Projects
 ### Enigma Chess Engine (01/01/2025 - 26/03/2025)
